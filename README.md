@@ -1,4 +1,4 @@
-# 🚗 WashItNow - Java Server
+# 🚗 WashItNow - Java Server 🚗
 
 WashItNow is a Java-based client-server application that simulates a service system where clients can request operations (such as services based on a zipcode) and communicate with a server through sockets.
 
